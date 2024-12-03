@@ -1,1 +1,1 @@
-# School_MIS_dynamic_Interface
+Here's a School's dynamic blog website
